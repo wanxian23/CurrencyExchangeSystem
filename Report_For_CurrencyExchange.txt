@@ -154,3 +154,25 @@ Receipt :
 
 ---- Feedback Leave: 
 
+------------------------------------------------
+
+Receipt : 
+
+---- Personal Information: 
+	Name   : Orange Chong Qing
+	Phone  : 0141234321
+	Email  : qing@mail.com
+
+---- Currency Conversion Result: 
+	Main Country            : Malaysia (MYR)
+	Amount in MYR           : RM23.00
+	Country that Chose      : EUROPE (SWEDEN)
+	Rate of Currency        : 2.20 SWEDEN
+	Amount that converted   : 50.60 SWEDEN
+
+---- Payment:
+	Cost Charge Rate   : 0.30
+	Cost Charge        : RM6.90
+
+---- Feedback Leave: 
+

@@ -48,3 +48,8 @@ User Name: Awang Chong
 User Phone: 02912121
 User Email: awang@mail.com
 
+----------User Info----------
+User Name: Orange Chong Qing
+User Phone: 0141234321
+User Email: qing@mail.com
+
