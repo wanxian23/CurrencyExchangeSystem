@@ -1,5 +1,0 @@
-﻿  CurrencyExchangeSystem.cpp
-G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year1\Sem2\Programming II\Tutorial\Project\CurrencyExchangeSystem\CurrencyExchangeSystem.cpp(208,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year1\Sem2\Programming II\Tutorial\Project\CurrencyExchangeSystem\CurrencyExchangeSystem.cpp(256,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year1\Sem2\Programming II\Tutorial\Project\CurrencyExchangeSystem\CurrencyExchangeSystem.cpp(656,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  CurrencyExchangeSystem_Advanced.vcxproj -> G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year1\Sem2\Programming II\Tutorial\Project\CurrencyExchangeSystem\x64\Debug\CurrencyExchangeSystem_Advanced.exe
