@@ -154,3 +154,25 @@ Receipt :
 
 ---- Feedback Leave: 
 
+------------------------------------------------
+
+Receipt : 
+
+---- Personal Information: 
+	Name   : Mimiao LEe
+	Phone  : 0164726452
+	Email  : miao@mail.com
+
+---- Currency Conversion Result: 
+	Main Country            : Malaysia (MYR)
+	Amount in MYR           : RM1000.00
+	Country that Chose      : SOUTH EAST ASIA (THAILAND)
+	Rate of Currency        : 7.54 THAILAND
+	Amount that converted   : 7540.00 THAILAND
+
+---- Payment:
+	Cost Charge Rate   : 0.28
+	Cost Charge        : RM280.00
+
+---- Feedback Leave: 
+
