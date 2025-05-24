@@ -1,0 +1,6 @@
+WELCOME, This is a CURRENCY EXCHANGE SYSTEM!
+We provide a lot of different country here
+You can just choose what you want to convert RM into that country!
+So, let's get started!
+
+------------------------------------------------
