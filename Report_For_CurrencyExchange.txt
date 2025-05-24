@@ -176,3 +176,25 @@ Receipt :
 
 ---- Feedback Leave: 
 
+------------------------------------------------
+
+Receipt : 
+
+---- Personal Information: 
+	Name   : Ah Chong
+	Phone  : 0174623432
+	Email  : ahlee@mail.com
+
+---- Currency Conversion Result: 
+	Main Country            : Malaysia (MYR)
+	Amount in MYR           : RM1000.00
+	Country that Chose      : ASIA (KOREA)
+	Rate of Currency        : 283.77 KOREA
+	Amount that converted   : 283770.00 KOREA
+
+---- Payment:
+	Cost Charge Rate   : 0.15
+	Cost Charge        : RM150.00
+
+---- Feedback Leave: 
+
